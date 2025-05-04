@@ -1,0 +1,4 @@
+--atlas -f rgba8888 -z auto
+cant_load.png
+ButtonImgDown.png
+downBG.png
